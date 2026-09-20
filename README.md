@@ -1,12 +1,12 @@
 # 👟 Adidas Sales Analytics Dashboard | Power BI
 
-## 📊 Project summary 
+## 📊 Project summary
 
 This Power BI dashboard provides a comprehensive analysis of Adidas sales performance across products, retailers, regions, states, and sales channels. The dashboard helps identify revenue trends, profitable regions, top-performing products, and customer purchasing behavior for data-driven business decisions.
 
 ---
 
-## 🎯 Business Objective
+## 🎯 Business Objectives
 
 The main objective of this dashboard is to:
 
